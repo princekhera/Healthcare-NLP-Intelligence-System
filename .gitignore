@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Large ML stuff
+data/
+models/
+results/
+notebooks/
+
+# Database
+*.db
