@@ -209,13 +209,3 @@ python training/train.py
 * Built full pipeline: training → inference → UI
 * Added explainability (rare in beginner projects)
 * Designed with real healthcare applications in mind
-
----
-
-If you want, I can also:
-
-* tailor this for your CV (1–2 killer bullet points)
-* help you write a GitHub description that gets attention
-* or clean up your repo structure so it looks top-tier
-
-Just tell me 👍
