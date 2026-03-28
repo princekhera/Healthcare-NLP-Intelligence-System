@@ -8,7 +8,6 @@ An end-to-end NLP system for classifying medical text into disease categories us
 <p align="center">
   <img src="healthcare_NLP_demo.gif" width="800">
 </p>
----
 
 ## 🚀 Overview
 
@@ -84,11 +83,6 @@ What this really means is — it's not just prediction, it explains *why*.
 
 ---
 
-## 🖥️ Demo
-
-![Demo](./Cancer_Treatment_Cost_Effectiveness_Model_demo.gif)
-
----
 
 ## 🧪 Training Pipeline
 
