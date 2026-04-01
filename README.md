@@ -144,8 +144,8 @@ This makes the model:
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/healthcare-nlp-system.git
-cd healthcare-nlp-system
+git clone https://github.com/princekhera/Healthcare-NLP-Intelligence-System.git
+cd healthcare-nlp-intelligence-system
 pip install -r requirements.txt
 ```
 
